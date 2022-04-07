@@ -1,10 +1,10 @@
 <h1 align="center"> CRUD ESTOQUE </h1>
 
 <p align="center">
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-##Descrição do projeto
+## Descrição do projeto
 Construção de CRUD(Create, Read, Update e Delete) para a tabela "Produtos", localizada no banco de dados "Estoque".
 
 ## ✔️ Técnicas e tecnologias utilizadas
@@ -13,7 +13,7 @@ Construção de CRUD(Create, Read, Update e Delete) para a tabela "Produtos", lo
 - ``Banco de dados relacional``
 - ``POO (Programação Orientada a Objetos)``
 
-##📁 Acesso ao projeto
+## 📁 Acesso ao projeto
 Você pode acessar o código fonte do projeto inicial ou baixá-lo.
 
 ## 🛠️ Abrir e rodar o projeto
